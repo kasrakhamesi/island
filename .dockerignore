@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+*.env
+*.md
+TODO
+vercel.json
+.svelte-kit
+.vscode
+build
